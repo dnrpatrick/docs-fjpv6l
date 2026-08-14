@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-tb76r7.bokupaybymobile.com/sitemap.xml
